@@ -41,7 +41,7 @@ Smart Code Example
 ```shell
 npx hardhat compile
 ```
-![Compile](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/HH-Compile-Ex-1.jpg)
+![Compile](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/HH-Compile-Ex-1.jpg)
 
 
 ### 2.3 Install Open Zeppelin Smart Contracts Framework
@@ -55,7 +55,7 @@ npm install --save-dev @openzeppelin/contracts
 ```shell
 npx hardhat node
 ```
-![Ganache Network](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/HH-Network-Node-Cli.jpg)
+![Ganache Network](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/HH-Network-Node-Cli.jpg)
 
 ### 2.5 Install Ethers package from HardHat & update config.
 
@@ -65,11 +65,11 @@ npm install --save-dev @nomiclabs/hardhat-ethers ethers
 ```
 Updated the ethers package in the hardhat.config.js config.
 
-![Deploy](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/HH-Ethers-Config.jpg)
+![Deploy](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/HH-Ethers-Config.jpg)
 
 ### 2.6 Write the Deployment Script for the Smart Contract
 
-![Deploy](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/HH-SC-Deploy-Ex-1.jpg)
+![Deploy](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/HH-SC-Deploy-Ex-1.jpg)
 
 ### 2.7 Deploy the Smart Contract using Hardhat
 
@@ -77,14 +77,14 @@ Updated the ethers package in the hardhat.config.js config.
 npx hardhat run --network localhost scripts/deploy.js
 ```
 
-![Deploy Result](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/HH-Deploy-Result.jpg)
+![Deploy Result](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/HH-Deploy-Result.jpg)
 
 
 ## 3. Client Side Coding
 
 ### 3.1 Write the Client Side Code to execute the Smart Contract
 
-![Client Code](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/SM-Client-Ex-1-A.jpg)
+![Client Code](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/SM-Client-Ex-1-A.jpg)
 
 
 ### 3.2 Execute the Client Side Code (Web3 using API)
@@ -93,7 +93,7 @@ npx hardhat run --network localhost scripts/deploy.js
 npx hardhat run --network localhost ./scripts/Box-client.js
 ```
 
-![Client Code Result](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/HH-Box-Client-Ex-1.jpg)
+![Client Code Result](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/HH-Box-Client-Ex-1.jpg)
 
 ## 4. Automated Test Cases
 
@@ -109,4 +109,4 @@ npm install --save-dev chai
 npx hardhat test
 ```
 
-![Client Code Result](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/HH-Test-Ex-1.jpg)
+![Client Code Result](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/HH-Test-Ex-1.jpg)

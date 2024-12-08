@@ -12,11 +12,11 @@ https://trufflesuite.com/ganache/
 
 ### 1.2 Run the Ganache Desktop App
 
-![Remix IDE](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/Ganache-App-1.jpg)
+![Remix IDE](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/Ganache-App-1.jpg)
 
 Check the RPC Server IP and Port Number. You need to give this in REMIX IDE for Web3 Provider Integration.
 
-![Remix IDE](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/Ganache-App-2.jpg)
+![Remix IDE](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/Ganache-App-2.jpg)
 
 ## 2. Setup Ganache Command line Utility
 
@@ -26,8 +26,8 @@ Check the RPC Server IP and Port Number. You need to give this in REMIX IDE for 
 npm install --save-dev ganache-cli
 npx ganache-cli --deterministic
 ```
-![Ganache Network](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/Ganache-Cli.jpg)
+![Ganache Network](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/Ganache-Cli.jpg)
 
 ### 2.2 Configure Truffle with Ganache Network
 
-![Ganache Network](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/Truffle-Config.jpg)
+![Ganache Network](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/Truffle-Config.jpg)

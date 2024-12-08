@@ -20,11 +20,11 @@ This sections the concept of Local, State and Global Varibales in Solidity. It a
 
 ### 1.1 Write the Smart Contract
 
-![Compile](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/tr-ex2-vf-contract.jpg)
+![Compile](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/tr-ex2-vf-contract.jpg)
 
 ### 1.2 Compile & Deploy the Smart Contract
 
-![Compile](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/tr-ex2-vf-deploy.jpg)
+![Compile](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/tr-ex2-vf-deploy.jpg)
 
 ```shell
 npx truffle migrate --network development
@@ -34,11 +34,11 @@ OR
 npx truffle deploy
 ```
 
-![Deploy Result](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/tr-ex2-vf-deploy-result.jpg)
+![Deploy Result](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/tr-ex2-vf-deploy-result.jpg)
 
 ### 1.3 Write the Client Side Code to execute the Smart Contract
 
-![Client Code](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/tr-ex2-vf-client.jpg)
+![Client Code](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/tr-ex2-vf-client.jpg)
 
 ### 1.4 Execute the Client Side Code (Web3 using API)
 
@@ -46,17 +46,17 @@ npx truffle deploy
 npx truffle exec --network development ./scripts/VariablesFunctions-client.js
 ```
 
-![Deploy Result](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/tr-ex2-vf-client-result.jpg)
+![Deploy Result](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/tr-ex2-vf-client-result.jpg)
 
 ## 2. Function Modifiers
 
 ### 2.1 Write the Smart Contract
 
-![Compile](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/tr-ex2-fm-contract.jpg)
+![Compile](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/tr-ex2-fm-contract.jpg)
 
 ### 2.2 Compile & Deploy the Smart Contract
 
-![Compile](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/tr-ex2-fm-deploy.jpg)
+![Compile](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/tr-ex2-fm-deploy.jpg)
 
 ```shell
 npx truffle migrate --network development
@@ -65,15 +65,15 @@ OR
 ```shell
 npx truffle deploy
 ```
-![Deploy Result](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/tr-ex2-fm-deploy-result.jpg)
+![Deploy Result](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/tr-ex2-fm-deploy-result.jpg)
 
 ### 2.3 Write the Client Side Code to execute the Smart Contract
 
-![Client Code](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/tr-ex2-fm-client.jpg)
+![Client Code](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/tr-ex2-fm-client.jpg)
 
 ### 2.4 Execute the Client Side Code (Web3 using API)
 
-![Compile](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/tr-ex2-fm-client-result.jpg)
+![Compile](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/tr-ex2-fm-client-result.jpg)
 
 
 ## 3. Default Values / Constants / Immutable

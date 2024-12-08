@@ -10,7 +10,7 @@ node --version
 Node Version: v16.15.1
 Visual Studio Code: 1.67.2
 
-![VS](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/VS-Version.jpg)
+![VS](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/VS-Version.jpg)
 
 ## 1. Setup
 
@@ -35,13 +35,13 @@ npx truffle init
 
 Smart Code Example 
 
-![Smart Contract](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/SM-Solidity-Ex-1.jpg)
+![Smart Contract](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/SM-Solidity-Ex-1.jpg)
 
 ### 2.2 Compile the Contract
 ```shell
 npx truffle compile
 ```
-![Compile](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/Truffle-Compile-Ex-1.jpg)
+![Compile](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/Truffle-Compile-Ex-1.jpg)
 
 
 ### 2.3 Install Open Zeppelin Smart Contracts Framework
@@ -56,15 +56,15 @@ npm install --save-dev @openzeppelin/contracts
 npm install --save-dev ganache-cli
 npx ganache-cli --deterministic
 ```
-![Ganache Network](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/Ganache-Cli.jpg)
+![Ganache Network](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/Ganache-Cli.jpg)
 
 ### 2.5 Configure Truffle with Ganache Network
 
-![Ganache Network](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/Truffle-Config.jpg)
+![Ganache Network](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/Truffle-Config.jpg)
 
 ### 2.6 Write the Deployment Script for the Smart Contract
 
-![Deploy](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/SM-Deploy-Ex-1.jpg)
+![Deploy](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/SM-Deploy-Ex-1.jpg)
 
 ### 2.7 Deploy the Smart Contract
 
@@ -78,14 +78,14 @@ OR
 npx truffle deploy
 ```
 
-![Deploy Result](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/SM-Deploy-Ex-1-Result.jpg)
+![Deploy Result](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/SM-Deploy-Ex-1-Result.jpg)
 
 
 ## 3. Client Side Coding
 
 ### 3.1 Write the Client Side Code to execute the Smart Contract
 
-![Client Code](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/SM-Client-Ex-1-A.jpg)
+![Client Code](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/SM-Client-Ex-1-A.jpg)
 
 
 ### 3.2 Execute the Client Side Code (Web3 using API)
@@ -98,7 +98,7 @@ npx truffle exec --network development ./scripts/Box-client-1.js
 npx truffle exec --network development ./scripts/Box-client-2.js
 ```
 
-![Client Code Result](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/SM-Client-Exec-Ex-1.jpg)
+![Client Code Result](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/SM-Client-Exec-Ex-1.jpg)
 
 ## 4. Automated Test Cases
 
@@ -114,4 +114,4 @@ npm install --save-dev chai
 npx truffle test
 ```
 
-![Client Code Result](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/SM-Test-Ex-1.jpg)
+![Client Code Result](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/SM-Test-Ex-1.jpg)
