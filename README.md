@@ -15,7 +15,7 @@ merchants, banks, regulators, insurers, and auditors, maintain independent and s
 their transactions. This approach creates several problems in the absence of a unified system like blockchain 
 or distributed ledger technology (DLT).
 
-![Issues](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/init/Blockchain-DL-1.jpg)
+![Issues](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/init/Blockchain-DL-1.jpg)
 
 ### 1. Lack of Trust and Transparency
 Each entity maintains its own record, which may not align with others due to delays, errors, or manipulation. For instance:
@@ -50,7 +50,7 @@ Before diving deeper into the concept of distributed ledgers, it's essential to 
 database and a distributed ledger. The following image illustrates the underlying principles and applications of both, highlighting 
 their unique characteristics and use cases.
 
-![Distributed-Ledger](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/init/Distributed-DB-DL-1.jpg)
+![Distributed-Ledger](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/init/Distributed-DB-DL-1.jpg)
 
 Let's revisit our earlier problem statement and examine how these technologies address the challenges. The image below 
 illustrates how blockchain and distributed ledger technology overcome the limitations of traditional siloed and independent 
@@ -59,7 +59,7 @@ record-keeping systems. 
 By introducing a shared, replicated, and permissioned ledger accessible and trusted by all stakeholders, these innovations 
 provide a transformative solution.
 
-![BL-Solution](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/init/Blockchain-DL-2.jpg)
+![BL-Solution](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/init/Blockchain-DL-2.jpg)
 
 ### 1. Consensus
 Blockchain operates on a consensus mechanism, ensuring that all participants agree on the validity of transactions before they are added to the ledger.
@@ -82,19 +82,19 @@ This finality resolves disputes quickly and improves the efficiency of processes
 - Replicated: Data is replicated across all participants, ensuring redundancy and resilience.
 - Permissioned: Access is controlled, meaning only authorized parties can view or interact with the data, maintaining privacy and security.
 
-![Blockchain](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/BC-Props.png)
+![Blockchain](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/BC-Props.png)
 
 ## How Blockchain Works
 
-![Blockchain](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/BC-How-it-works.png)
+![Blockchain](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/BC-How-it-works.png)
 
 ## Hyperledger Fabric Architecture
 
-![Blockchain](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/BC-Fabric-Arch.png)
+![Blockchain](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/BC-Fabric-Arch.png)
 
 ## Ethereum Concepts
 
-![Blockchain](https://raw.githubusercontent.com/MetaArivu/blockchain-examples/master/images/BC-Ethereum-Concepts.png)
+![Blockchain](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/BC-Ethereum-Concepts.png)
 
 
 Author: Araf Karsh Hamid. Apache 2.0 License - 2022
