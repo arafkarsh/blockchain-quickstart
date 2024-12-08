@@ -1,11 +1,13 @@
-# Blockchain Examples
+# Blockchain HyperLedger Fabric & Ethereum Examples
+
+## Tutorials
 
 This codebase focuses on two implementation of Blockchain 
 
 1. Ethereum Public Blockchain. [Checkout Tutorial](https://speakerdeck.com/arafkarsh/blockchain-ethereum-tokens)
 2. Hyperledger Fabric Blockchain for Enterprise (Private). [Checkout Tutorial](https://speakerdeck.com/arafkarsh/blockchain-hyperledger-fabric)
 
-Blockchain Conference
+## Blockchain Conference
 
 - [Blockchain Technology Enclave, March, 2018, Bengaluru, India](https://www.youtube.com/watch?v=WDpnIgILPRs)
 
@@ -97,4 +99,4 @@ This finality resolves disputes quickly and improves the efficiency of processes
 ![Blockchain](https://raw.githubusercontent.com/arafkarsh/blockchain-quickstart/refs/heads/main/images/BC-Ethereum-Concepts.png)
 
 
-Author: Araf Karsh Hamid. Apache 2.0 License - 2022
+Author: Araf Karsh Hamid. Apache 2.0 License - 2022-24
