@@ -1,0 +1,37 @@
+[{
+    "appraisedValue": 300,
+    "assetID": "asset1",
+    "color": "blue",
+    "owner": "Rashmi Nair",
+    "size": 5
+}, {
+    "appraisedValue": 400,
+    "assetID": "asset2",
+    "color": "red",
+    "owner": "Anjali Menon",
+    "size": 5
+}, {
+    "appraisedValue": 500,
+    "assetID": "asset3",
+    "color": "green",
+    "owner": "Alex Abraham",
+    "size": 10
+}, {
+    "appraisedValue": 600,
+    "assetID": "asset4",
+    "color": "yellow",
+    "owner": "Karishma A",
+    "size": 10
+}, {
+    "appraisedValue": 700,
+    "assetID": "asset5",
+    "color": "black",
+    "owner": "John Mathai",
+    "size": 15
+}, {
+    "appraisedValue": 700,
+    "assetID": "asset6",
+    "color": "white",
+    "owner": "Araf Karsh",
+    "size": 15
+}]

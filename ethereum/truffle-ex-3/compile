@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Compiling & Deploying Smart Contracts"
+npx truffle migrate --network development

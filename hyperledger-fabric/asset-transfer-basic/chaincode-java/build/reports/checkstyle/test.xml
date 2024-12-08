@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.21">
+<file name="/Users/arafkarsh/workspace/blockchain/blockchain-qs/hyperledger-fabric/asset-transfer-basic/chaincode-java/src/test/java/org/hyperledger/fabric/samples/assettransfer/AssetTest.java">
+</file>
+<file name="/Users/arafkarsh/workspace/blockchain/blockchain-qs/hyperledger-fabric/asset-transfer-basic/chaincode-java/src/test/java/org/hyperledger/fabric/samples/assettransfer/AssetTransferTest.java">
+</file>
+</checkstyle>

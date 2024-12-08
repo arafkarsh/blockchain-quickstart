@@ -1,0 +1,17 @@
+
+[Asset@7fb0835b [assetID=asset1, color=blue, size=5, owner=Rashmi Nair, appraisedValue=300]
+
+[Asset@a88477cf [assetID=asset2, color=red, size=5, owner=Anjali Menon, appraisedValue=400]
+
+^Asset@8a0951bb [assetID=asset3, color=green, size=10, owner=Alex Abraham, appraisedValue=500]
+
+]Asset@e9ba52ba [assetID=asset4, color=yellow, size=10, owner=Karishma A, appraisedValue=600]
+
+]Asset@8bde36cb [assetID=asset5, color=black, size=15, owner=John Mathai, appraisedValue=700]
+
+\Asset@49dad3c4 [assetID=asset6, color=white, size=15, owner=Araf Karsh, appraisedValue=800]
+Asset asset1 does not exist
+Asset asset1 does not exist
+Asset asset1 does not exist
+Asset asset1 already exists
+Asset asset1 does not exist

@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Starting Ganache Cli"
+npx ganache-cli --deterministic
